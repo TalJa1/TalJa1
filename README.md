@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=タイさんです&fontSize=90&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=タイさんです&fontSize=90&fontAlignY=50&animation=blinking)
 ## Call me T
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Soy%20Tai&fontSize=90&fontAlignY=50&animation=blinking)
 
