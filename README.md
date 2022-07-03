@@ -1,9 +1,7 @@
-<style>
-    Text-align: center;
-</style>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=タイさんです&fontSize=90)
 ##  Come Come and see me "GANAR" 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=footer&text=Soy%20Tai&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=footer&text=Soy%20Tai&fontSize=90&fontAlignY=20)
 
 
 
