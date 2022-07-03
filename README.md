@@ -4,7 +4,7 @@
       integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V"
       crossorigin="anonymous"
     /> -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=タイさんです%20Soy-Tai&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=タイさんです%10Soy-Tai&fontSize=80)
 ##  Come Come and see me "GANAR" 👋
 
 
