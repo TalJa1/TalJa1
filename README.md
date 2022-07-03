@@ -7,6 +7,7 @@
 <!--     %20Soy-Tai -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=タイさんです&fontSize=90)
 ##  Come Come and see me "GANAR" 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Soy%10Tai&fontSize=90)
 
 
 
