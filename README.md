@@ -1,12 +1,6 @@
-<!-- <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"
-      integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V"
-      crossorigin="anonymous"
-    /> -->
-<!--     %20Soy-Tai -->
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=タイさんです&fontSize=90)
-##  Come Come and see me "GANAR" 👋
+                                                ##  Come Come and see me "GANAR" 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=footer&text=Soy%20Tai&fontSize=90)
 
 
