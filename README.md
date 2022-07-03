@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=タイです&fontSize=90&fontAlignY=50&animation=twinkling&strokeWidth=3)
-<h1 style="padding-left: 100px;" >Welcome to my world</h1>
+<h1> <pre> Welcome to my world</h1>
 
 
 
