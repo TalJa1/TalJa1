@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=タイさんです&fontSize=90&fontAlignY=50)
-##  Come Come and see me "GANAR" 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Soy%20Tai&fontSize=90&fontAlignY=50)
+## Call me T
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Soy%20Tai&fontSize=90&fontAlignY=50&animation=twinkling)
 
 
 
