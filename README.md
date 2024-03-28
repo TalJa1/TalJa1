@@ -1,8 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=一生懸命&fontSize=90&fontAlignY=50&animation=twinkling&strokeWidth=3)
 <h1 align="center">Bienvenido a mi mundo</h1>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=asd&section=footer&reversal=true&textBg=false)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=一生懸命&section=footer&reversal=true&textBg=false)
 
 
 <!--
