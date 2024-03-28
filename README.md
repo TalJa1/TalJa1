@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=タイです&fontSize=90&fontAlignY=50&animation=twinkling&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=一生懸命&fontSize=90&fontAlignY=50&animation=twinkling&strokeWidth=3)
 <h1 align="center">Welcome to my world</h1>
 
 
