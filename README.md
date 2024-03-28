@@ -6,7 +6,7 @@
 
 <div align="center">
   <hr style="border: none; background-color: #99CCFF; height: 3px; width: 50%; margin-bottom: 5px;">
-  <p style="font-size: 14px; color: #333333;">© 2024 [Your Name/Project Name]</p>
+  <p style="font-size: 14px; color: #333333;">©[Chau Tan Tai]</p>
 </div>
 
 </footer>
