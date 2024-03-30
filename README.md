@@ -7,6 +7,10 @@ A passionate software developer with a focus on web development.
 
 I'm a recent graduate with a strong interest in building user-friendly and interactive web applications. I'm constantly learning and exploring new technologies.
 
+Good at communicating in English, Vietnamese, Spanish.
+
+I'm in the process of learning Japanese and Chinese
+
 **Contact**
 
 Feel free to reach out via email: [ttchau2530@gmail.com]
