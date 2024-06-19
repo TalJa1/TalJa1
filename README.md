@@ -19,7 +19,7 @@ Feel free to reach out via email: [ttchau2530@gmail.com]
 
 * [www.linkedin.com/in/tai-chau-4b02312b8]
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=一生懸命&section=footer&reversal=true&textBg=false)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&width=100vw&color=gradient&text=一生懸命&section=footer&reversal=true&textBg=false)
 
 
 <!--
