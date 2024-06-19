@@ -5,7 +5,7 @@ A passionate software developer with a focus on web development.
 
 **About Me**
 
-I'm a recent graduate with a strong interest in building user-friendly and interactive web applications. I'm constantly learning and exploring new technologies. Besides, I can build apps in both websites and mobile apps (ReactJs, React Native and Flutter). Currently, I am working and learning how to build API with ExpressJS.
+I'm a recent graduate with a strong interest in building user-friendly and interactive web applications. I'm constantly learning and exploring new technologies. Besides, I can build apps in both websites and mobile apps (ReactJs, React Native with Expo and Flutter). Currently, I am working and learning how to build API with ExpressJS.
 
 Good at communicating in English, Vietnamese, Spanish.
 
