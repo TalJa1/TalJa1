@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d6e,100:2f6db3&height=210&section=header&text=Tai%20Chau&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Cloud%20%26%20AI&descAlignY=60&descSize=20" alt="Tai Chau banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d6e,100:2f6db3&height=210&section=header&text=Tai%20Chau&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20and%20AI&descAlignY=60&descSize=20" alt="Tai Chau banner" width="100%" />
 
 <a href="https://github.com/TalJa1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F6DB3&center=true&vCenter=true&width=640&lines=Technical+Team+Leader+building+on+Google+Cloud;Full-stack+web+%26+mobile+%C2%B7+Data+%26+AI+automation;Turning+business+needs+into+reliable+systems;%E4%B8%80%E7%94%9F%E6%87%B8%E5%91%BD+%E2%80%94+giving+it+everything" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F6DB3&center=true&vCenter=true&width=640&lines=Technical+Team+Leader+building+on+Google+Cloud;Full-stack+web+and+mobile+%7C+Data+and+AI+automation;Turning+business+needs+into+reliable+systems;%E4%B8%80%E7%94%9F%E6%87%B8%E5%91%BD+%E2%80%94+giving+it+everything" alt="Typing animation" />
 </a>
 
 <br/>
